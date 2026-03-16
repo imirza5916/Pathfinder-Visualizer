@@ -2,7 +2,6 @@
 
 An interactive **Pathfinding Visualizer** built using **C++ & SFML**, supporting **A\***, **BFS**, **Dijkstra**, and **Greedy Best-First** with animated exploration and terrain-based weights.
 
-## 🎥 Demo
 
 ![Pathfinder Demo](demo.gif)
 
